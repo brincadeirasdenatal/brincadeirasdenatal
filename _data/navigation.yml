@@ -1,6 +1,6 @@
 - title: Start
   url: "/"
-# side: left
+  side: left
 
 #- title: Getting Started
 #  url: "/getting-started/"
